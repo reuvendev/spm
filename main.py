@@ -22,6 +22,7 @@ def spam():
 | /  \ |__| |_| | |_| | |___ |
 |/_/\_\____\___/|____/|_____||
 '----------------------------'
+WE DO NOT FORGIVE, WE DO NOT FORGET.
 """ + bcolors.ENDC)
 
 os.system("clear")
